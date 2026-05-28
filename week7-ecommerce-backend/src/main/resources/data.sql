@@ -1,2 +1,0 @@
--- data.sql: Flyway handles seeding via V2__seed_data.sql
--- This file is intentionally minimal
